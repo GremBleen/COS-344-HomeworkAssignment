@@ -1,5 +1,6 @@
 {
   "files.associations": {
+    "*.embeddedhtml": "html",
     "*.asm": "nasm",
     "new": "cpp",
     "chrono": "cpp",
@@ -55,7 +56,8 @@
     "streambuf": "cpp",
     "thread": "cpp",
     "cinttypes": "cpp",
-    "typeinfo": "cpp"
+    "typeinfo": "cpp",
+    "map": "cpp"
   },
   "C_Cpp.errorSquiggles": "enabled",
   "C_Cpp.intelliSenseEngineFallback": "disabled"
